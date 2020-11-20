@@ -1,5 +1,5 @@
 {
-  "name": "MyLitlleHero",
+  "name": "MLH",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,8 @@
     "@wdio/mocha-framework": "^6.6.7",
     "@wdio/selenium-standalone-service": "^6.6.5",
     "@wdio/spec-reporter": "^6.6.8",
-    "@wdio/sync": "^6.6.7"
+    "@wdio/sync": "^6.6.7",
+    "prettier": "2.1.2"
   },
   "dependencies": {
     "@babel/cli": "^7.12.1",
